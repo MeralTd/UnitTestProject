@@ -1,0 +1,12 @@
+C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.APP\bin\Debug\net5.0\UdemyUnitTest.APP.deps.json
+C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.APP\bin\Debug\net5.0\UdemyUnitTest.APP.dll
+C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.APP\bin\Debug\net5.0\ref\UdemyUnitTest.APP.dll
+C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.APP\bin\Debug\net5.0\UdemyUnitTest.APP.pdb
+C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.APP\obj\Debug\net5.0\UdemyUnitTest.APP.csprojAssemblyReference.cache
+C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.APP\obj\Debug\net5.0\UdemyUnitTest.APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.APP\obj\Debug\net5.0\UdemyUnitTest.APP.AssemblyInfoInputs.cache
+C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.APP\obj\Debug\net5.0\UdemyUnitTest.APP.AssemblyInfo.cs
+C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.APP\obj\Debug\net5.0\UdemyUnitTest.APP.csproj.CoreCompileInputs.cache
+C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.APP\obj\Debug\net5.0\UdemyUnitTest.APP.dll
+C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.APP\obj\Debug\net5.0\ref\UdemyUnitTest.APP.dll
+C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.APP\obj\Debug\net5.0\UdemyUnitTest.APP.pdb
