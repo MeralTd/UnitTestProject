@@ -100,3 +100,5 @@ C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.Test\obj\Debug\net5.
 C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.Test\obj\Debug\net5.0\ref\UdemyUnitTest.Test.dll
 C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.Test\obj\Debug\net5.0\UdemyUnitTest.Test.pdb
 C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.Test\obj\Debug\net5.0\UdemyUnitTest.Test.genruntimeconfig.cache
+C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.Test\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\toshıba\source\repos\UdemyXUnitTest\UdemyUnitTest.Test\bin\Debug\net5.0\Moq.dll
